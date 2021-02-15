@@ -3,8 +3,8 @@
 
 
 #### Recursos
- * HTML,
- * SCSS,
+ * HTML
+ * SCSS
  * JS
  
 #### Iniciar ambiente de desenvolvimento para VSCode
