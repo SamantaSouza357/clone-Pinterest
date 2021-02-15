@@ -3,8 +3,9 @@
 
 
 #### Recursos
- * HTML, SCSS, JS
- * SVG Images
+ * HTML,
+ * SCSS,
+ * JS
  
 #### Iniciar ambiente de desenvolvimento para VSCode
 1. Abra a pasta do projeto no VSCode
