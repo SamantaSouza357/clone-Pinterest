@@ -2,11 +2,12 @@
 # UI Clone - Pinterest (Homepage)
 
 
-#### Resources
+#### Recursos
  * HTML, SCSS, JS
  * SVG Images
-#### Start Dev Environment for VSCode
-1. Open project folder in VSCode
-2. Install Live Server and Live Sass Compiler extension
-3. Right click index.html > Open with Live Server
-4. Access the generated address in your browser 🚀
+ 
+#### Iniciar ambiente de desenvolvimento para VSCode
+1. Abra a pasta do projeto no VSCode
+2. Instale a extensão Live Server e Live Sass Compiler
+3. Clique com o botão direito em index.html> Abrir com servidor Live
+4. Acesse o endereço gerado em seu navegador🚀
