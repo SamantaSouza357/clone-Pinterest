@@ -12,3 +12,5 @@
 2. Instale a extensão Live Server e Live Sass Compiler
 3. Clique com o botão direito em index.html> Abrir com servidor Live
 4. Acesse o endereço gerado em seu navegador🚀
+
+- [Acesse o projeto finalizado](https://samantasouza357.github.io/clone-Pinterest/)
